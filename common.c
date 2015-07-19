@@ -1,6 +1,8 @@
 #include "string.h"
 #include "stdio.h"
 #include "stdlib.h"
+//this is added by 0719
+#include "string.h"
 
 #include "common.h"
 
